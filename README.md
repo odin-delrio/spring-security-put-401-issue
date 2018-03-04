@@ -2,3 +2,4 @@
 
 # Repository for reproducing an issue with spring security
 
+Issue reported here: https://github.com/spring-projects/spring-security/issues/5070
